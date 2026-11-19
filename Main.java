@@ -20,7 +20,7 @@ public class Main {
     public static boolean isValid(int hours) {
         return hours >= 0 && hours <= 60;
     }
-java
+
     public static void main(String[] args) {
 
         String[] names = {"Hina", "Omar", "Zara", "Bilal"};
